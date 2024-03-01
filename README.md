@@ -1,1 +1,3 @@
-# Idragon-game
+# Idragon-game 
+<br>
+The game will made using HTML CSS and JS only....
